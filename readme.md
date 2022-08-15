@@ -6,4 +6,4 @@
 
 [link]:https://github.com/riptideio/pymodbus
 [code]:https://github.com/sarathtv/Modbus_PC_SM_RTUoverTCP/blob/master/Client_PC_Modbus_SM_RTUoverTCP.py
-[vid]:https://youtu.be/p0NBDxVmkrI
+[vid]:https://youtu.be/5n9JKzepvGc
